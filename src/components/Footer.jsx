@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-2">
           <span>🏁</span>
-          <span className="text-sm font-semibold text-gray-400">Pilot<span className="text-primary">Tracker</span></span>
+          <span className="text-sm font-semibold text-gray-400">Rider<span className="text-primary">Tracker</span></span>
         </div>
         <p className="text-xs text-gray-600">© 2026 RiderTracker. Validación de demanda.</p>
       </div>
