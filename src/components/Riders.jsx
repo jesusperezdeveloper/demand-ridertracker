@@ -7,10 +7,10 @@ export default function Riders() {
             <span className="text-accent text-sm font-semibold uppercase tracking-wider">Para pilotos</span>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mt-3 mb-6">
               Date de alta gratis.{' '}
-              <span className="text-accent">Gana dinero con tus fans.</span>
+              <span className="text-accent">Haz que tus fans formen parte de tu carrera.</span>
             </h2>
             <p className="text-gray-400 text-lg leading-relaxed mb-8">
-              Tus fans te siguen aquí, tú ganas dinero con la publicidad que generan Y pueden apadrinarte cada mes. Sin hacer nada extra.
+              Tus fans te siguen aquí, te apoyan cada mes y se convierten en parte de tu equipo. Tú te centras en pilotar, ellos en empujarte.
             </p>
             
             <div className="space-y-4">
