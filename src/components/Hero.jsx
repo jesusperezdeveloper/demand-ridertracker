@@ -58,7 +58,7 @@ export default function Hero() {
               {/* Mock app screen */}
               <div className="p-4 space-y-3">
                 <div className="flex items-center justify-between">
-                  <span className="text-sm font-bold">🏁 PilotTracker</span>
+                  <span className="text-sm font-bold">🏁 RiderTracker</span>
                   <span className="w-2 h-2 bg-green-500 rounded-full" />
                 </div>
                 <div className="bg-primary/10 border border-primary/20 rounded-xl p-3">

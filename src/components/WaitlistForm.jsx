@@ -42,7 +42,7 @@ export default function WaitlistForm() {
         <div className="max-w-4xl mx-auto text-center px-6">
           <span className="material-symbols-outlined text-primary text-6xl mb-4">check_circle</span>
           <h2 className="text-3xl font-bold text-white mb-4">¡Estás en la parrilla!</h2>
-          <p className="text-gray-400">Te avisaremos cuando PilotTracker esté listo. Los primeros 500 tienen acceso premium gratis 3 meses.</p>
+          <p className="text-gray-400">Te avisaremos cuando RiderTracker esté listo. Los primeros 500 tienen acceso premium gratis 3 meses.</p>
         </div>
       </section>
     )

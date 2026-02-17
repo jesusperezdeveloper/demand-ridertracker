@@ -6,7 +6,7 @@ export default function Footer() {
           <span>🏁</span>
           <span className="text-sm font-semibold text-gray-400">Pilot<span className="text-primary">Tracker</span></span>
         </div>
-        <p className="text-xs text-gray-600">© 2026 PilotTracker. Validación de demanda.</p>
+        <p className="text-xs text-gray-600">© 2026 RiderTracker. Validación de demanda.</p>
       </div>
     </footer>
   )
